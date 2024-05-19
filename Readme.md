@@ -4,6 +4,9 @@
 
 This project facilitates the use of Infrastructure as Code (IaC) principles through the popular tool Terraform. The primary objective is to build and manage the infrastructure required for hosting a Jenkins server on AWS. This includes the provisioning of a Virtual Private Cloud (VPC), subnets, EC2 instance, Internet Gateway, route tables, and an S3 bucket for Jenkins artifacts storage.
 
+## Architecture Diagram
+![Project Architecture](tf_jenkins_architecture.png)
+
 ## Components
 
 The project consists of the following key components:
