@@ -1,4 +1,4 @@
-# Project Name: Infrastructure as Code with Terraform - Jenkins on AWS
+# Infrastructure as Code with Terraform - Jenkins on AWS
 
 ## Overview
 
